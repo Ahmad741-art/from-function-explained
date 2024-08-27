@@ -1,0 +1,4 @@
+from math import *
+
+print(sqrt(16))  # Output: 4.0
+print(sin(0))    # Output: 0.0
